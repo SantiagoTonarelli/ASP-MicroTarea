@@ -28,4 +28,4 @@ Almacenamiento: Opcional entre una base de datos (puede ser SQL o NoSQL) o un ar
 ## Entrega
 
  1. Subir el repo a classroom.
- 2. Evidencia en video o foto de que funciona.
+ 2. Evidencia en video de que funciona.
