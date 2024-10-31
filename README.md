@@ -1,8 +1,8 @@
 
-# Micro Tarea: API para Procesar Mensajes de AWS SQS
+# Micro Tarea: API para Procesar Mensajes de AWS SQS u otro provedor de colas de mensajes en la nube
 ## Objetivo
 
- Desarrollar una API que interactúe con una cola de mensajes de AWS SQS, realizando las siguientes funciones:
+ Desarrollar una API que interactúe con una cola de mensajes de AWS SQS u otro provedor de colas de mensajes en la nube, realizando las siguientes funciones:
 
 1. Leer y eliminar mensajes de una cola de AWS SQS.
 2. Proceso que escuche de la cola y guarde los mensajes leídos en una base de datos o en un archivo de texto.
@@ -22,7 +22,7 @@
 
 ## Requisitos
 Lenguaje de programación: Libre elección.
-Servicios AWS: Uso obligatorio de AWS SQS.
+Servicios AWS: Uso obligatorio de AWS SQS u otro provedor de colas de mensajes en la nube.
 Almacenamiento: Opcional entre una base de datos (puede ser SQL o NoSQL) o un archivo de texto.
 
 ## Entrega
